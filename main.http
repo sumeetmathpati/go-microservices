@@ -1,0 +1,14 @@
+GET http://127.0.0.1:8080/greet
+
+###
+
+GET http://127.0.0.1:8080/customers
+
+###
+
+
+POST http://127.0.0.1:8080/customers
+
+###
+
+GET http://127.0.0.1:8080/customers/s
